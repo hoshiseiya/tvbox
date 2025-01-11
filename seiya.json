@@ -4,11 +4,11 @@
       //LOGO
 "logo":"https://d.kstore.dev/download/7336/tv/logo.gif",
   //警告
-"warningText": "星空",
+"warningText": "预防接口失效丨请关注公众号丨YHY黑科技",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣",
+      "name": "豆瓣丨公众号丨YHY科技库",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -1300,7 +1300,7 @@
     },
     {
       "key": "量子资源",
-      "name": "量子｜采集",
+      "name": "量子｜�集",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
