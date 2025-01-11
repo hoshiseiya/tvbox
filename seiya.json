@@ -1,6 +1,6 @@
 {
-  "spider": "https://gitee.com/yhykejiku/TencentFanghong/raw/main/spider.jar",
-  "wallpaper": "https://api.likepoems.com/img/bing",
+  "spider": "./spider.jar",
+  "wallpaper": "./logo",
       //LOGO
 "logo":"https://d.kstore.dev/download/7336/tv/logo.gif",
   //警告
