@@ -1,8 +1,7 @@
 {
   "spider": "./spider.jar",
-  "wallpaper": "./logo",
       //LOGO
-"logo":"https://d.kstore.dev/download/7336/tv/logo.gif",
+"logo":"。/logo.png",
   //警告
 "warningText": "接口失效！！！",
   "sites": [
