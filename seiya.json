@@ -1,7 +1,7 @@
 {
   "spider": "./spider.jar",
       //LOGO
-"logo":"./logo.png",
+"logo":"./logo.gif",
   //警告
 "warningText": "失效了",
   "sites": [
@@ -310,21 +310,6 @@
       "api": "./JS/drpy2.min.js",
       "ext": "./JS/樱花动漫.js"
     },
-    {
-      "key": "夸克影搜弹幕",
-      "name": "影搜｜弹幕",
-      "type": 3,
-      "api": "csp_Yingso",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "danmu": true
-      }
-    },
-
     {
       "key": "米搜弹幕",
       "name": "米搜｜弹幕",
