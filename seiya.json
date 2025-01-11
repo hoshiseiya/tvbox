@@ -1,7 +1,7 @@
 {
-  "spider": "./spider.jar",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hoshiseiya/tvbox/refs/heads/main/spider.jar",
       //LOGO
-"logo":"。/logo.png",
+"logo":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hoshiseiya/tvbox/refs/heads/main/logo.png",
   //警告
 "warningText": "接口失效！！！",
   "sites": [
